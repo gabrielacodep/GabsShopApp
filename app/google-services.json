@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145407722908",
+    "project_id": "gabs-shop-3c233",
+    "storage_bucket": "gabs-shop-3c233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145407722908:android:83de5051c5d579b373f459",
+        "android_client_info": {
+          "package_name": "sv.edu.catolica.gabsshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145407722908-dtfri5l3p71klk1d8radcoubliguoe9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ZIG1z6rKoN1G1iBXLN96OSIppNV0A-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145407722908-dtfri5l3p71klk1d8radcoubliguoe9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
